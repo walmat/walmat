@@ -7,8 +7,9 @@ $whoami
 ![Redux](https://img.shields.io/badge/Redux-100%25-472A75)
 ![TypeScript](https://img.shields.io/badge/TypeScript-100%25-255EB2)
 ![NodeJS](https://img.shields.io/badge/NodeJS-100%25-0E5D03)
+![Golang](https://img.shields.io/badge/Golang-75%25-7fd5ea)
 
-Software Engineering graduate from [Iowa State University](https://www.iastate.edu). Full-stack developer with passion for sneakers and browser automation. Currently residing in [Detroit, Michigan USA](https://www.google.com/maps/place/Detroit,+MI)
+Software Engineer graduate from [Iowa State University](https://www.iastate.edu). Full-stack developer with passion for sneakers and automation software. Currently residing in [Denver, Colorado USA](https://www.google.com/maps/place/Denver,+CO)
 
 - I’m currently self-employed and working for [Nebulabots](https://nebulabots.com).
 - I’m focused on learning and adapting **GoLang**.
