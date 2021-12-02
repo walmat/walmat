@@ -9,10 +9,10 @@ $whoami
 ![NodeJS](https://img.shields.io/badge/NodeJS-100%25-0E5D03)
 ![Golang](https://img.shields.io/badge/Golang-75%25-7fd5ea)
 
-Software Engineer graduate from [Iowa State University](https://www.iastate.edu). Full-stack developer with passion for sneakers and automation software. Currently residing in [Denver, Colorado USA](https://www.google.com/maps/place/Denver,+CO)
+Software Engineer graduate from [Iowa State University](https://www.iastate.edu). Full-stack developer with passion for automation software. Currently residing in [Denver, Colorado USA](https://www.google.com/maps/place/Denver,+CO)
 
-- I’m currently self-employed and working for [Nebulabots](https://nebulabots.com).
-- I’m focused on learning and adapting **GoLang**.
+- I’m currently self-employed,
+- I’m focused on learning and improving my knowledge in **GoLang**.
 - I’m looking to collaborate on **Open Source** projects.
 - I'm mostly active within the **React**, **Redux** and **NodeJS** communities.
 
