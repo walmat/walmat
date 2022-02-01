@@ -11,9 +11,9 @@ $whoami
 
 Software Engineer graduate from [Iowa State University](https://www.iastate.edu). Full-stack developer with passion for automation software. Currently residing in [Denver, Colorado USA](https://www.google.com/maps/place/Denver,+CO)
 
-- I’m currently self-employed,
-- I’m focused on learning and improving my knowledge in **GoLang**.
+- I’m currently involved in many web3 projects,
+- I’m focused on learning and improving my knowledge in **Golang**.
 - I’m looking to collaborate on **Open Source** projects.
-- I'm mostly active within the **React**, **Redux** and **NodeJS** communities.
+- I'm mostly active within the **React**, **Redux**, and **NodeJS** communities.
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=walmat&show_icons=true&hide_border=true)
