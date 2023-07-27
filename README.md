@@ -9,7 +9,7 @@ $whoami
 ![NodeJS](https://img.shields.io/badge/NodeJS-100%25-0E5D03)
 ![Golang](https://img.shields.io/badge/Golang-75%25-7fd5ea)
 
-Software Engineer graduate from [Iowa State University](https://www.iastate.edu). Full-stack developer with passion for automation software. Currently residing in [Denver, Colorado USA](https://www.google.com/maps/place/Denver,+CO)
+Software Engineer graduate from [Iowa State University](https://www.iastate.edu). Full-stack developer with passion for automation software. Currently residing in [Boise, ID USA](https://www.google.com/maps/place/Boise,+ID)
 
 - I’m currently involved in many web3 projects,
 - I’m focused on learning and improving my knowledge in **Golang**.
