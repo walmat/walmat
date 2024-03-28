@@ -9,11 +9,6 @@ $whoami
 ![NodeJS](https://img.shields.io/badge/NodeJS-100%25-0E5D03)
 ![Golang](https://img.shields.io/badge/Golang-75%25-7fd5ea)
 
-Software Engineer graduate from [Iowa State University](https://www.iastate.edu). Full-stack developer with passion for automation software. Currently residing in [Boise, ID USA](https://www.google.com/maps/place/Boise,+ID)
-
-- I’m currently involved in many web3 projects,
-- I’m focused on learning and improving my knowledge in **Golang**.
-- I’m looking to collaborate on **Open Source** projects.
-- I'm mostly active within the **React**, **Redux**, and **NodeJS** communities.
+Full-stack developer with passion for automation software. Currently residing in [Michigan, USA](https://www.google.com/maps/place/michigan+USA)
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=walmat&show_icons=true&hide_border=true)
